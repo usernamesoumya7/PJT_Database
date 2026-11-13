@@ -1,2 +1,4 @@
 # PJT_Database
 An in-house database of 269 two-dimensional materials in POSCAR format, forming part of a broader dataset of 4,072 structures including 2DMatPedia, was curated and uploaded to support computational data analysis and structural screening.
+#The data analysis codes and associated files, including [ModelBuilding.ipynb](https://github.com/arko-mohari/PJT/blob/main/ModelBuilding.ipynb), [data.csv](https://github.com/arko-mohari/PJT/blob/main/data.csv) and [model.pkl](https://github.com/arko-mohari/PJT/blob/main/model.pkl), are available in the GitHub repository of my co-author, Arko Mohari. The corresponding POSCAR structure files are hosted in my repository. Please cite our work when using these structures or codes:
+*J. Phys. Chem. Lett.* **16** (20), 5062–5067 (2025). https://doi.org/10.1021/acs.jpclett.5c01023
